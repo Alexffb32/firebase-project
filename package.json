@@ -1,0 +1,27 @@
+{
+  "name": "gdgff",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "^10.4.14",
+    "firebase": "^9.18.0",
+    "next": "13.2.4",
+    "postcss": "^8.4.21",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^8.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "tailwindcss": "^3.3.0",
+    "typescript": "5.0.2"
+  }
+}
